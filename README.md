@@ -5,22 +5,14 @@ My project for the [Build a Random Quote Machine challenge](https://learn.freeco
 ---
 
 ## Built With
-* [Express.js](https://expressjs.com)
-* [Mongoose](https://mongoosejs.com)
-* [MongoDB](https://www.mongodb.com)
 * [React.js](https://reactjs.org)
 * [Webpack](https://webpack.js.org)
-* [Sass](http://sass-lang.com)
-* [axios](https://github.com/axios/axios)
-* AJAX
 * [EJS](https://ejs.co)
-* [Babel](https://babeljs.io)
-* [dotenv](https://github.com/motdotla/dotenv)
-* [Normalize.css](https://necolas.github.io/normalize.css)
 * [Font Awesome](https://fontawesome.com)
 * [Google Fonts](https://fonts.google.com)
 
 ## Demo
+![](Demo.png)
 
 
 
